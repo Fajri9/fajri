@@ -1,0 +1,29 @@
+{
+  "summary_line": "G20 uneasy truce in Johannesburg, Congo peace deal signed, COP31 talks stall, AI caps reach markets",
+  "stories": [
+    {
+      "tag": "DIPLOMACY",
+      "headline": "G20 closes in Johannesburg with declaration signed after early US boycott drama",
+      "context": "South Africa hands summit to the US for 2026",
+      "color": "#1f4e79"
+    },
+    {
+      "tag": "PEACE",
+      "headline": "Congo and Rwanda sign Washington peace framework, first minerals deals move",
+      "context": "Monitoring mission deploys to the border",
+      "color": "#2e7d32"
+    },
+    {
+      "tag": "CLIMATE",
+      "headline": "COP31 in Antalya stalls on fossil-fuel transition timeline",
+      "context": "Island states push for binding 2035 phase-out",
+      "color": "#8a6d1a"
+    },
+    {
+      "tag": "ECONOMY",
+      "headline": "AI compute caps tighten; chip prices slide as markets reset",
+      "context": "Central banks signal slower cuts into 2027",
+      "color": "#6a1b9a"
+    }
+  ]
+}
